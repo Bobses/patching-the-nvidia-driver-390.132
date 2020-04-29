@@ -8,6 +8,6 @@ Run the following command:
 
 `./NVIDIA-Linux-x86_64-390.132-kernel-5.5-patched.run --apply-patch kernel-5.6.patch`
 
-This will create another archived executable with the name ending in **-custom.run**. Running this executable should successfully build and install the nvidia driver **whithout dkms**.
+This will create another archived executable with the name ending in **-custom.run**. Running this executable should successfully build and install the nvidia driver (install it **whithout dkms**).
 
 The final file can be downloaded from [here](https://drive.google.com/file/d/1gICEe8mMJ-P-tQypBeVgGuaPX_7GX7D9/view?usp=sharing).
