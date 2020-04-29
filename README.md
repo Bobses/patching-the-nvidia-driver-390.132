@@ -1,6 +1,6 @@
 After upgrading to Fedora 32 and 5.6.6 kernel, the Nvidia driver 390.132 was stopped working.
 
-# Building the Nvidia dirver 390.132 with patch
+# Building the Nvidia driver 390.132 with patch
 
 The patch was downloaded from [here](https://gitlab.com/snippets/1943873) and aplied over a [Nvidia driver 390.132 patched for kernel 5.5](https://nvidia.if-not-true-then-false.com/NVIDIA-Linux-x86_64-390.132-kernel-5.5-patched.run).
 
